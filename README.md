@@ -17,8 +17,8 @@
 <div align="center">
   <a href="https://github.com/valecoulo">
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=haquimjorge&show_icons=true&theme=midnight-purple"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?haquimjorge=valecoulo&theme=midnight-purple"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=valentin lamothe&show_icons=true&theme=midnight-purple"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?valentin lamothe=valecoulo&theme=midnight-purple"/>
     
 </div>
 
