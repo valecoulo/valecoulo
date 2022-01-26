@@ -38,7 +38,7 @@
   </a>
   &emsp;
   <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=html&logoColor=white"/>
+    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=Html&logoColor=white"/>
   </a>
   &emsp;
   <a>
