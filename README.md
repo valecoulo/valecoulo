@@ -10,15 +10,15 @@
 <p align="left"> 
 
   <a> 
-    <img alt="React" src="https://img.shields.io/badge/-React-orange?logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/-React-black?logo=React&logoColor=orange">
   </a> 
   &emsp;
   <a> 
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-red?logo=reactnative&Color=white">
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-orange?logo=reactnative&Color=black">
   </a> 
   &emsp;
   <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-black?logo=node.js&Color=orange">
   </a> 
   &emsp;
   <a> 
