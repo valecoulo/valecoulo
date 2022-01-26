@@ -30,7 +30,19 @@
   </a>
   &emsp;
   <a>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-red?logo=redux&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=html&logoColor=white"/>
+  </a>
+  &emsp;
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/-Css-white?logo=css&logoColor=white"/>
   </a>
   &emsp;
   <a> 
@@ -40,6 +52,10 @@
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
   </a>
+  &emsp;
+  <a> 
+     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-green?logo=MqSQL&logoColor=white">
+   </a>
   &emsp;
   <a>
     <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
