@@ -77,6 +77,10 @@
      <img alt="Postman" src="https://img.shields.io/badge/-Postman-green?logo=postman&logoColor=white">
    </a>
   &emsp;
+  <a> 
+     <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-green?logo=sequelize&logoColor=white">
+   </a>
+  &emsp;
 </p>
 
 
