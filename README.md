@@ -8,4 +8,4 @@
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Consultant+and+FinTech+Engineer;Python+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+mobile+applications;Education,+MindHub+and+Digital+House)](https://git.io/typing-svg)
