@@ -38,11 +38,11 @@
   </a>
   &emsp;
   <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=Html&logoColor=white"/>
+    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=html5&logoColor=white"/>
   </a>
   &emsp;
   <a>
-    <img alt="CSS" src="https://img.shields.io/badge/-Css-white?logo=css&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/-Css-white?logo=css3&logoColor=white"/>
   </a>
   &emsp;
   <a> 
