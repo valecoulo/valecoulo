@@ -97,7 +97,7 @@
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height=30 width="auto" /></a>
+      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
   
 </p>
 
