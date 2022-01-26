@@ -60,12 +60,21 @@
   <a>
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white"/>
   </a>
+  &emsp;
   <a> 
      <img alt="Apache" src="https://img.shields.io/badge/-Apache-green?logo=apache&logoColor=white">
    </a>
   &emsp;
   <a> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-green?logo=insomnia&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="Postman" src="https://img.shields.io/badge/-Postman-green?logo=postman&logoColor=white">
    </a>
   &emsp;
 </p>
