@@ -54,12 +54,20 @@
   </a>
   &emsp;
   <a> 
-     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-green?logo=MqSQL&logoColor=white">
+     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-green?logo=mysql&logoColor=white">
    </a>
   &emsp;
   <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white"/>
   </a>
+  <a> 
+     <img alt="Apache" src="https://img.shields.io/badge/-Apache-green?logo=apache&logoColor=white">
+   </a>
+  &emsp;
+  <a> 
+     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=white">
+   </a>
+  &emsp;
 </p>
 
 
