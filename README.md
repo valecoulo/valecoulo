@@ -10,7 +10,11 @@
 <p align="left"> 
 
   <a> 
-    <img alt="React" src="https://img.shields.io/badge/-React-blue?logo=React&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/-React-orange?logo=React&logoColor=black">
+  </a> 
+  &emsp;
+  <a> 
+    <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-green?logo=ReactNative&Color=white">
   </a> 
   &emsp;
   <a> 
