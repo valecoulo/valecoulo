@@ -14,7 +14,7 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-orange?logo=reactnative&Color=black">
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-orange?logo=react&Color=black">
   </a> 
   &emsp;
   <a> 
@@ -26,59 +26,59 @@
    </a>
   &emsp;
    <a>
-    <img alt="Express" src="https://img.shields.io/badge/Express%20-%2314354C.svg?logo=express&logoColor=white">
+    <img alt="Express" src="https://img.shields.io/badge/Express%20-black?logo=express&logoColor=orange">
   </a>
   &emsp;
   <a>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-red?logo=redux&logoColor=white"/>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-orange?logo=redux&logoColor=black"/>
   </a>
   &emsp;
   <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/-git-black?logo=git&logoColor=orange"/>
   </a>
   &emsp;
   <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-Html-purple?logo=html5&logoColor=white"/>
+    <img alt="HTML" src="https://img.shields.io/badge/-Html-orange?logo=html5&logoColor=black"/>
   </a>
   &emsp;
   <a>
-    <img alt="CSS" src="https://img.shields.io/badge/-Css-white?logo=css3&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/-Css-black?logo=css3&logoColor=orange"/>
   </a>
   &emsp;
   <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
+     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-orange?logo=mongodb&logoColor=black">
+   </a>s
   &emsp;
   <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=orange">
   </a>
   &emsp;
   <a> 
-     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-green?logo=mysql&logoColor=white">
+     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-orange?logo=mysql&logoColor=black">
    </a>
   &emsp;
   <a>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-yellow?logo=redux&logoColor=white"/>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=orange"/>
   </a>
   &emsp;
   <a> 
-     <img alt="Apache" src="https://img.shields.io/badge/-Apache-green?logo=apache&logoColor=white">
+     <img alt="Apache" src="https://img.shields.io/badge/-Apache-orange?logo=apache&logoColor=black">
    </a>
   &emsp;
   <a> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-green?logo=bootstrap&logoColor=white">
+     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=orange">
    </a>
   &emsp;
   <a> 
-     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-green?logo=insomnia&logoColor=white">
+     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-orange?logo=insomnia&logoColor=black">
    </a>
   &emsp;
   <a> 
-     <img alt="Postman" src="https://img.shields.io/badge/-Postman-green?logo=postman&logoColor=white">
+     <img alt="Postman" src="https://img.shields.io/badge/-Postman-black?logo=postman&logoColor=orange">
    </a>
   &emsp;
   <a> 
-     <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-green?logo=sequelize&logoColor=white">
+     <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-orange?logo=sequelize&logoColor=black">
    </a>
   &emsp;
 </p>
