@@ -47,7 +47,7 @@
   &emsp;
   <a> 
      <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-orange?logo=mongodb&logoColor=black">
-   </a>s
+   </a>
   &emsp;
   <a> 
     <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=orange">
