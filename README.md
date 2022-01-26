@@ -14,7 +14,7 @@
   </a> 
   &emsp;
   <a> 
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-red?logo=react-native&Color=white">
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-red?logo=reactnative&Color=white">
   </a> 
   &emsp;
   <a> 
