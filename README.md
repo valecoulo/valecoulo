@@ -1,101 +1,27 @@
-# Hello there I am Valentin Lamothe👋
+# Valentin Lamothe (valentinLamothe)
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentinLamothe)
 
+## Introduction
+I'm Valentin Lamothe, a dedicated software developer with a passion for leveraging technology to solve real-world problems. My journey in software development has equipped me with a diverse skill set, enabling me to excel in various domains within the tech industry.
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## Experience Highlights
+- **It-techgroup**: I developed various apps for clients from other countries
+- **Eprezto**: Developer for International Project Expansion, with Expertise in Front-End and Back-End Development
 
-## My tech stack
+## Contact Me
+Let's connect! Whether it's for collaboration, sharing ideas, or just a casual chat, I'm always open to new connections and opportunities. You can reach me through the following channels:
+- Email: valentinlamothe.dev@gmail.com
+- LinkedIn: [Valenin Lamothe](https://www.linkedin.com/in/valentin-lamothe-coulomme/)
 
-<p align="left"> 
+## GitHub Stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinLamothe)](https://github.com/valentinnLamothe)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=valentinLamothe)](https://github.com/valentinLamothe)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=valentinLamothe)](https://git.io/streak-stats)
 
-  <a> 
-    <img alt="React" src="https://img.shields.io/badge/-React-black?logo=React&logoColor=orange">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="React Native" src="https://img.shields.io/badge/-React Native-orange?logo=react&Color=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-black?logo=node.js&Color=orange">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-orange?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a>
-    <img alt="Express" src="https://img.shields.io/badge/Express%20-black?logo=express&logoColor=orange">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-orange?logo=redux&logoColor=black"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-black?logo=git&logoColor=orange"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="HTML" src="https://img.shields.io/badge/-Html-orange?logo=html5&logoColor=black"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="CSS" src="https://img.shields.io/badge/-Css-black?logo=css3&logoColor=orange"/>
-  </a>
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-orange?logo=mongodb&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=orange">
-  </a>
-  &emsp;
-  <a> 
-     <img alt="MqSQL" src="https://img.shields.io/badge/-MqSQL-orange?logo=mysql&logoColor=black">
-   </a>
-  &emsp;
-  <a>
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-black?logo=redux&logoColor=orange"/>
-  </a>
-  &emsp;
-  <a> 
-     <img alt="Apache" src="https://img.shields.io/badge/-Apache-orange?logo=apache&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=orange">
-   </a>
-  &emsp;
-  <a> 
-     <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-orange?logo=insomnia&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-     <img alt="Postman" src="https://img.shields.io/badge/-Postman-black?logo=postman&logoColor=orange">
-   </a>
-  &emsp;
-  <a> 
-     <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-orange?logo=sequelize&logoColor=black">
-   </a>
-  &emsp;
-</p>
+## Summary
+As a Full Stack Engineer, I possess a diverse range of skills in programming, system design, and cloud computing. My GitHub profile is a testament to my dedication to learning and growing in the field of technology. I am particularly skilled in creating web applications that are both efficient and scalable. My commitment to the tech community is unwavering, and I am always looking for new challenges and opportunities to further develop my skills.
 
+Thank you for visiting my profile. Feel free to get in touch using the contact information above. I'm excited about the possibility of collaborating and sharing knowledge with you!
 
-## Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/valentin-lamothe-coulomme/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-</p>
-
------
-<p align="center">
-   <img height="50%" align="center" width="auto" src ="https://github-readme-stats.vercel.app/api?username=valentinLamothe&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
- </p>
 
