@@ -1,4 +1,4 @@
-# Valentin Lamothe (valentinLamothe)
+# Valentin Lamothe 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valentinLamothe)
 
